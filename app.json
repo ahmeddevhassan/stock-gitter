@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Stock Gitter",
+    "slug": "StockGitter",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.stockgitter.sgmobile",
+      "buildNumber": "1.0.2"
+    },
+    "android": {
+      "package": "com.stockgitter.stockApp",
+      "versionCode": 3
+    }
+  }
+}

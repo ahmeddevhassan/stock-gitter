@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940240006665",
+    "firebase_url": "https://builder-2603e.firebaseio.com",
+    "project_id": "builder-2603e",
+    "storage_bucket": "builder-2603e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940240006665:android:585ac405c711f725",
+        "android_client_info": {
+          "package_name": "com.wonderjewel.builder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940240006665-por9t0k0p3he4otfo6acin46b6e49m5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2sMod0-lrWlzPc-TURuAOJJVwERiIZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940240006665-por9t0k0p3he4otfo6acin46b6e49m5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
